@@ -1,0 +1,37 @@
+JM Consulting — AI Consulting & Growth Systems
+
+Misión
+Convertir empresas tradicionales de 20-500 empleados en empresas aumentadas por IA, entregando ROI en dólares antes de entregar tecnología.
+
+Modelo
+Auditoría ROI-first de 2 semanas → Quick wins de 30-90 días → Implementación 4-8 meses → AI Operations Retainer.
+
+Arquitectura
+Claude diseña y piensa. Paperclip organiza y visualiza. n8n ejecuta los workflows.
+
+Verticales de foco
+Property management, accounting, legal boutique, logistics, healthcare no-crítica, manufacturing, real estate, B2B SaaS post-PMF.
+
+Nicho de arranque
+Property management multi-site en EEUU y LATAM (100-2.000 unidades gestionadas).
+
+Fundador y único responsable humano
+Javier Mendoza — CEO, CRO, Head of AI Audit en la fase 1. Contacto: javiercm1221.jm@gmail.com.
+
+Principios operativos
+1. ROI antes de tecnología. Todo recomendación tiene USD/año al lado.
+2. Nicho antes de escala. No abrir vertical 2 hasta 3 clientes en vertical 1.
+3. Entrega antes de venta. Un caso real vende más que un pitch.
+4. Humano en el loop. Toda IA propone; humano aprueba en crítico.
+5. Cliente en el diseño. Operadores co-diseñan desde el sprint 0.
+6. Transparencia financiera. Sensibilidad explícita en todo calculo.
+7. Blameless. Postmortems miran sistemas, no personas.
+8. Compounding knowledge. Todo cliente construye IP reutilizable para el siguiente.
+
+Estructura interna
+6 agentes business (Hustler, Rainmaker, Operator, Storyteller, Guardian, COO).
+Agentes roles (CEO, CRO, Head AI Audit, CTO, COO, CMO, Client Success).
+Ejecutores (n8n, outbound tools, LLM providers).
+
+Estado
+Fase 1 — building market position. Mes 0-6: 3 clientes primer vertical.

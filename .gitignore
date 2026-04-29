@@ -1,0 +1,9 @@
+﻿# Archivos temporales de Office
+~$*
+*.tmp
+
+# Archivos de bloqueo de LibreOffice
+.~lock.*
+
+# Script de setup (no necesario en el repo)
+setup_github_repo.ps1
